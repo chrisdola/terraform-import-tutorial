@@ -1,0 +1,5 @@
+/state-management.sh
+/terraform*
+/app1_repo/.terraform*
+/app2_repo/.terraform*
+/shared-mono-repo/.terraform*
