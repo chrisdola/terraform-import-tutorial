@@ -18,7 +18,7 @@ Foobar is a Python library for dealing with word pluralization.
 Clone the repo locally.
 
 ```bash
-git clone 
+git clone https://github.com/chrisdola/terraform-import-tutorial.git
 ```
 Create three separate workspaces in either TFC or TFE. 
 - 1x shared workspace (initially will contain all resources)
